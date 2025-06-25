@@ -1,0 +1,5 @@
+.venv/ 
+__pycache__/ 
+output_faces/ 
+*.pyc 
+*.whl  # To ignore any downloaded wheel files if they end up in root
